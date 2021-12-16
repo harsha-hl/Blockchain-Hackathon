@@ -1,2 +1,7 @@
 # Blockchain-Hackathon
-This is our team's solution for the problem statement of 'Let's mind the gap and talk about blockchain" (workshop + hackathon)
+## Problem Statement
+1. Mint a set of NFTs
+2. Build a page that plays a video
+3. This page can only be accessed if you own atleast one of the minted NFTs
+## Our solution (1st place)
+
