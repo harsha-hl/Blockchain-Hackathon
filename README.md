@@ -33,7 +33,8 @@ Giving a brief overview of the files:
 
 ### Contributors
 
-<html>
-  <a href="https://github.com/chandan2300">
-</html>
+# chandan2300
+# harsha-hl
+# ujwal-05
+# Naman003
 
