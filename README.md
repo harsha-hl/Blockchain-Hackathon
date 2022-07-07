@@ -30,3 +30,11 @@ Giving a brief overview of the files:
 ![escan](escan.png)
 
 ![mask](mask.png)
+
+## Contributors
+
+## chandan2300
+## harsha-hl
+## ujwal-05
+## Naman003
+
